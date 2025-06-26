@@ -1,6 +1,6 @@
 # Spyglasses Python SDK
 
-AI Agent Detection and Management for Python web applications.
+AI SEO, AI Agent Detection, AI Model Blocking, and Analytics for Python web applications.
 
 The Spyglasses Python SDK enables you to detect AI Agents, bots, crawlers, and referrers in your Python web applications. It provides comprehensive [AI SEO](https://www.spyglasses.io), shows you when your site features in ChatGPT, Claude, Perplexity, and other AI assistant chat platforms. It can also prevent your site's content from being used for training AI by blocking the crawlers that scrape your content for training. It integrates seamlessly with popular Python web frameworks including Django, Flask, and FastAPI.
 
@@ -329,7 +329,7 @@ The SDK is designed to be non-intrusive. If there are issues with the Spyglasses
 ### Setting up Development Environment
 
 ```bash
-git clone https://github.com/spyglasses/spyglasses-python.git
+git clone https://github.com/orchestra-code/spyglasses-python.git
 cd spyglasses-python
 
 # Create virtual environment
@@ -373,7 +373,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Support
 
 - Documentation: [spyglasses.io/docs](https://spyglasses.io/docs)
-- Issues: [GitHub Issues](https://github.com/spyglasses/spyglasses-python/issues)
+- Issues: [GitHub Issues](https://github.com/orchestra-code/spyglasses-python/issues)
 - Support: [support@spyglasses.io](mailto:support@spyglasses.io)
 
 ## Changelog

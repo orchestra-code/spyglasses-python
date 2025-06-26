@@ -6,7 +6,7 @@ AI Agent Detection and Management for Python web applications.
 
 from typing import TYPE_CHECKING
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 # Main components
 from .client import Client

@@ -70,9 +70,9 @@ dev = [
 [project.urls]
 Homepage = "https://spyglasses.io"
 Documentation = "https://www.spyglasses.io/docs/platforms/python"
-Repository = "https://github.com/spyglasses/spyglasses-python"
-Changelog = "https://github.com/spyglasses/spyglasses-python/blob/main/CHANGELOG.md"
-"Bug Tracker" = "https://github.com/spyglasses/spyglasses-python/issues"
+Repository = "https://github.com/orchestra-code/spyglasses-python"
+Changelog = "https://github.com/orchestra-code/spyglasses-python/blob/main/CHANGELOG.md"
+"Bug Tracker" = "https://github.com/orchestra-code/spyglasses-python/issues"
 
 [tool.hatch.version]
 path = "src/spyglasses/__init__.py"

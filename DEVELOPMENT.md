@@ -14,7 +14,7 @@ This guide covers development setup, testing, and contribution guidelines for th
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/spyglasses/spyglasses-python.git
+git clone https://github.com/orchestra-code/spyglasses-python.git
 cd spyglasses-python
 ```
 

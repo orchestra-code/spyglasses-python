@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2025-06-26
+
+### Fixed
+- Broken links to Github repos
+- Standardized the README overview across plugins
+
+## [1.0.0] - 2025-06-25
+
 ### Added
 - Initial release of Spyglasses Python SDK
 - Core bot and AI referrer detection capabilities
@@ -33,12 +41,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AI Referrer detection (traffic from ChatGPT, Claude, Perplexity, Gemini, Copilot)
 - Custom pattern matching with regex support
 - Configurable blocking rules based on bot categories and types
-
-## [1.0.0] - 2025-06-25
-
-### Added
-- Initial stable release
-- Complete API compatibility with Ruby and TypeScript SDKs
-- Comprehensive test suite
-- Production-ready middleware implementations
-- Full documentation and examples 
